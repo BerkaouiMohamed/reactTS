@@ -1,0 +1,65 @@
+{
+    "foods":[
+        {
+            "id": 1,
+            "name": "pizza",
+            "price": 10,
+            "image": "https://resize.elle.fr/original/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/pizza-margherita-2079696/22099132-2-fre-FR/Pizza-margherita.jpg"
+        },
+        {
+            "id": 2,
+            "name": "burger",
+            "price": 8,
+            "image": "https://www.recipetineats.com/wp-content/uploads/2019/08/Burger-7.jpg"
+        },
+        {
+            "id": 3,
+            "name": "sushi",
+            "price": 12,
+            "image": "https://www.thespruceeats.com/thmb/9phcd-CmKO6x-RXl2f0sNp_K-Ik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sushi-57b3ef725f9b58b5c2b3126e.jpg"
+        },
+        {
+            "id": 4,
+            "name": "pasta",
+            "price": 9,
+            "image": "https://assets.epicurious.com/photos/5af2feff72b6a34a655dc7f7/6:4/w_620,h_413,c_limit/Spaghetti-aglio-e-olio-recipe-050318.jpg"
+        },
+        {
+            "id": 5,
+            "name": "taco",
+            "price": 7,
+            "image": "https://www.seriouseats.com/thmb/x-5RUJHybksYZ79aE2QX-CSTt-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20200120-stovetop-tacos-vicky-wasik-19-e9cfc2f3c6344e0eb69b19df7d7c0423.jpg"
+        },
+        {
+            "id": 6,
+            "name": "salad",
+            "price": 6,
+            "image": "https://cookieandkate.com/images/2018/06/best-tossed-green-salad.jpg"
+        },
+        {
+            "id": 7,
+            "name": "ice cream",
+            "price": 5,
+            "image": "https://www.simplyrecipes.com/thmb/4LtmAw6hptHhtD9AT0CBlDF9Om0=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Vanilla-Ice-Cream-LEAD-2-b62ff4ec53f248308b9980eebd2dcbcb.jpg"
+        },
+        {
+            "id": 8,
+            "name": "steak",
+            "price": 15,
+            "image": "https://www.simplyrecipes.com/thmb/4T8YqBtjUjrqyoAzhRUR-uxlNR8=/2000x1333/filters:fill(auto,1)/Simply-Recipes-Steak-Horizontal-Lead-3b-689b3fbb86b74b7ca1742e9b5f65e7d6.jpg"
+        },
+        {
+            "id": 9,
+            "name": "sandwich",
+            "price": 7,
+            "image": "https://www.onceuponachef.com/images/2014/08/BEST-Turkey-Sandwich.jpg"
+        },
+        {
+            "id": 10,
+            "name": "pancakes",
+            "price": 5,
+            "image": "https://www.cookingclassy.com/wp-content/uploads/2020/03/pancakes-20-500x500.jpg"
+        }
+    ]
+    
+}
